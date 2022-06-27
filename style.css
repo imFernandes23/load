@@ -59,7 +59,7 @@ body{
         transform: rotate(180deg);
     }
 
-    50%{
+    35%,50%,65%{
         transform: rotate(270deg);
     }
 }
@@ -75,7 +75,7 @@ body{
         transform: rotate(60deg);
     }
 
-    50%{
+    35%,50%,65%{
         transform: rotate(150deg);
     }
 }
@@ -91,7 +91,7 @@ body{
         transform: rotate(-60deg);
     }
 
-    50%{
+    35%,50%,65%{
         transform: rotate(30deg);
     }
 }
